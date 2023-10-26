@@ -14,4 +14,5 @@ pinecone-client==2.2.1
 redis
 orjson
 Pillow
-llama-cpp-python
+llama-cpp-python==0.1.78
+#llama-cpp-python
